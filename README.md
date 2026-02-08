@@ -17,7 +17,7 @@ The current solution for LERS data reporting is outdated and no longer maintaina
 
 ---
 
-## ▶️ User Instructions
+## 🛠️ Tech Stack
 
 **Languages:** 
 -SQL, Python
